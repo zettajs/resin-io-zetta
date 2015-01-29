@@ -1,13 +1,13 @@
 {
-  "name": "adams-home",
+  "name": "resin-io-zetta",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Adam Magaluk <AdamMagaluk@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "zetta": "^0.18.0",
     "zetta-hue-driver": "^0.4.0"
