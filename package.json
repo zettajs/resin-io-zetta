@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "zetta": "^0.18.0"
+    "zetta": "^0.18.0",
+    "zetta-hue-driver": "^0.4.0"
   }
 }
